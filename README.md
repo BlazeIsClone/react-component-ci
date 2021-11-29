@@ -1,1 +1,13 @@
-This package is mostly just for my own personal use. Whenever I create a new component in React, I tend to do the same boilerplate over and over. I created this CLI tool to automate that process.
+# React Component CI - Generate React Functional Components On The Fly
+
+## Install globally
+```shell
+npm i react-component-ci
+```
+
+### Run commands in the root of your react project
+
+#### Create react functional component
+```shell
+generate-rfc name=myComponent
+```
