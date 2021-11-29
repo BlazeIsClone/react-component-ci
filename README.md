@@ -2,7 +2,7 @@
 
 ## Install globally
 ```shell
-npm i react-component-ci
+npm install react-component-ci -g
 ```
 
 ### Run commands in the root of your react project
