@@ -3,6 +3,10 @@
   "version": "1.0.3",
   "type": "module",
   "description": "Generate React components on the fly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlazeIsClone/react-component-ci"
+  },
   "main": "index.js",
   "bin": {
     "generate-rfc": "./bin/generate-rfc.js"
