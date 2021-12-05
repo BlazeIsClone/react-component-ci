@@ -40,7 +40,7 @@ export const generate = args => {
 
   writeFileSync(
     `${newComponentDir}/index.js`,
-    `export * from './${componentFileName}.jsx';\n`,
+    `export * from './${componentFileName}';\n`,
   );
 
   writeFileSync(
