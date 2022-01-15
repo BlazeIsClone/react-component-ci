@@ -16,5 +16,8 @@
   },
   "preferGlobal": true,
   "author": "Blaze Clone",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-component-ci": "^1.0.7"
+  }
 }
