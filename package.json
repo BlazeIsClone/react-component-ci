@@ -1,6 +1,6 @@
 {
   "name": "react-component-ci",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "type": "module",
   "description": "Generate React components on the fly",
   "repository": {
